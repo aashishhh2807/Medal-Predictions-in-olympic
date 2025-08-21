@@ -1,4 +1,4 @@
-Olympic Medal Prediction 
+Olympic Medal Prediction 🏅
 
 This repository contains a basic Machine Learning project that predicts the number of medals a team is likely to win in the Olympics.
 
