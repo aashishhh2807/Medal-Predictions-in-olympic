@@ -1,3 +1,19 @@
-# Medal-Predictions-in-olympic
-This repository contains the basic ml code for predicting the no of medals a team will win in the Olympic based on the number of athletes participating and previous year medals.
-This model is built by using linear regression with a r2 score of 0.9
+Olympic Medal Prediction 
+
+This repository contains a basic Machine Learning project that predicts the number of medals a team is likely to win in the Olympics.
+
+Project Overview
+
+The prediction is based on:
+Number of athletes participating
+    Medals won in the previous Olympics
+    The model is built using Linear Regression.
+
+Achieved an R² score of ~0.90, indicating strong predictive performance.
+
+Tech Stack
+
+Python
+Pandas, NumPy for data handling
+Scikit-learn for model building & evaluation
+Matplotlib / Seaborn for visualization
